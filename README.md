@@ -8,5 +8,8 @@ cd BLOODYSEARCH
 start modules.bat
 python Bloody_Search.py 
 
+USAGE
+cd BLOODYSEARCH
+python Bloody_Search.py 
 
 
