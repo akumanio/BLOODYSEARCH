@@ -9,7 +9,7 @@ INSTALL WINDOWS
 https://github.com/akumanio/BLOODYSEARCH
 cd BLOODYSEARCH
 start modules.bat
-python Bloody_Search.py
+python Bloody_Search.py 
 
 
 
